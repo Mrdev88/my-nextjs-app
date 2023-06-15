@@ -17,8 +17,8 @@ export default function Home() {
           >
             By{'Mahdi Ruiz'}
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
+              src="/wimpod.jpg"
+              alt="Wimpod"
               className={styles.vercelLogo}
               width={100}
               height={24}
