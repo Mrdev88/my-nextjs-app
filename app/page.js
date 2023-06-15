@@ -6,9 +6,9 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <h1>My next.js test</h1>
-        <p className={styles.code}>
+        <code className={styles.code}>
           Hello
-        </p>
+        </code>
         <div>
           <a
             href="https://mahdiruizonweb.wordpress.com/"
