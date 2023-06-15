@@ -15,13 +15,13 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{'Mahdi Ruiz'}
+            By{' Mahdi Ruiz'}
             <Image
               src="/wimpod.jpg"
               alt="Wimpod"
               className={styles.vercelLogo}
-              width={100}
-              height={24}
+              width={360}
+              height={241}
               priority
             />
           </a>
